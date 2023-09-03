@@ -1,1 +1,1 @@
-# Aktivator Windows terminal
+# Pandas Activator
